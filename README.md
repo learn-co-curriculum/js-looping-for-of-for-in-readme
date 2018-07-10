@@ -14,14 +14,14 @@ for (let i = 0; i < array.length; i++) {
 ```
 
 ES2015 introduced a simpler way to express this common path. For `Array`s we
-now have `for...of` and for Objects we now have `for...`in`.
+now have `for...of` and for Objects we now have `for...in`.
 
 ## Objectives
 
 1. Define iteration
 2. Discuss the Problem of Expressivity with `for` Loops
 3. Iterate over `Array`s with the `for...of` statement.
-4. Iterate over `Sting`s with the `for...of` statement.
+4. Iterate over `String`s with the `for...of` statement.
 6. Enumerate an object's properties with the `for...in` statement.
 
 ## Define Iteration
